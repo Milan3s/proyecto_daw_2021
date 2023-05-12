@@ -1,4 +1,4 @@
-# proyecto_daw
+# Proyecto Versión Beta
 
 Para poder probar este proyecto seguir los siguientes pasos.
 
