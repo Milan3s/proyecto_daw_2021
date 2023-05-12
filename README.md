@@ -2,15 +2,14 @@
 
 Para poder probar este proyecto seguir los siguientes pasos.
 
-Toda la documentación esta en el docx.
+Toda la documentación esta en el PDF.
 
-Para un Resumen y el que no tenga ganas de leer :
-
+0. CRUD
 1. Instlar XAMPP
 2. Importar la bbdd aplicacion.sql
 3. Ejecutar en el navegador http://localhost/agenda
-4. CRUD , Crear, Leer, Actualizar y Borrar.
-5. Puerto de navegación por defecto.
+4. Puerto de navegación por defecto.
+
 
 PD: 
 
