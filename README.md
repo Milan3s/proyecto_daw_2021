@@ -2,6 +2,20 @@
 
 Para poder probar este proyecto seguir los siguientes pasos.
 
+Tecnologías : 
+
+- FRONT END
+   · HTML5
+   · CSS
+   · BOOTSTRAP
+   · JS
+
+- Backend 
+   · PHP
+   · MYSQL
+   · XAMPP
+-------------------------------------------------------------
+
 Toda la documentación esta en el PDF.
 
 0. CRUD
